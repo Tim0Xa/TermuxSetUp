@@ -11,8 +11,8 @@ pkg install nano -y
 printf "\n\n ssh client \n\n"
 sleep 2s
 pkg install openssh -y
-# python 3.6
-printf "\n\n python 3.6 \n\n"
+# install python
+printf "\n\n install python \n\n"
 sleep 2s
 pkg install python -y
 # C & C++ compiller
